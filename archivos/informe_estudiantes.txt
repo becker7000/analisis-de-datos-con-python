@@ -1,0 +1,5 @@
+Nombre: Juan Pérez | Calificación: 85 | Resultado: Aprobado
+Nombre: Ana Gómez | Calificación: 45 | Resultado: Reprobado
+Nombre: Luis Martínez | Calificación: 72 | Resultado: Aprobado
+Nombre: Marta López | Calificación: 90 | Resultado: Aprobado
+Nombre: Carlos García | Calificación: 60 | Resultado: Reprobado

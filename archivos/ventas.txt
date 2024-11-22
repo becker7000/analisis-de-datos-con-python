@@ -1,0 +1,4 @@
+Producto: Televisor | Fecha: 2024-11-20 | Precio: 450 | Unidades: 5
+Producto: Lámpara | Fecha: 2024-11-19 | Precio: 30 | Unidades: 10
+Producto: Computadora | Fecha: 2024-11-20 | Precio: 800 | Unidades: 2
+Producto: Televisor | Fecha: 2024-11-21 | Precio: 450 | Unidades: 3
